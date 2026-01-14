@@ -1,0 +1,11 @@
+Vanilla:
+1.20.1
+1.19.4
+1.16.5
+
+Forge:
+1.20.1-Forge
+1.12.2-Forge
+
+Fabric:
+1.20.4-Fabric
